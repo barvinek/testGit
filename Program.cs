@@ -9,3 +9,6 @@ Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("--> im printing in red");
 Console.ResetColor();
+Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("--> im printing in yellow");
+Console.ResetColor();
